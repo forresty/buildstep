@@ -7,6 +7,7 @@
 # SYSTEM PACKAGES
 #
 apt-get update
+apt-get install -y --no-install-recommends openjdk-7-jdk
 xargs apt-get install -y --force-yes < /build/packages.txt
 apt-get clean
 

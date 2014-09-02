@@ -30,7 +30,6 @@ mercurial
 mysql-client
 netcat-openbsd
 nodejs
-openjdk-7-jdk
 openjdk-7-jre-headless
 openssh-client
 openssh-server
